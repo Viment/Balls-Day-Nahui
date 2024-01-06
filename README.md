@@ -15,7 +15,7 @@ SomeOne(Who?) - Artist.
 # Special Thanks
 ShadowMario and PsychEngine DevTeam - Thanks for PsychEngine 6.3;
 
-PeaTV - Titled Mod and Drew 1st version;
+PeaTV - Titled Mod and Drew 1st version of MrBeast;
 
 Naxinet/SKUMZ - Thanks for MMLL sprites, for Suicide Troubles
 
