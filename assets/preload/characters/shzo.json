@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				38,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				21,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				46,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-25,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				8
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "shot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shzo",
+	"position": [
+		80,
+		-20
+	],
+	"healthicon": "hiteshv3",
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		17,
+		22
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}

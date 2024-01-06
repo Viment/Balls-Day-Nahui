@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				100,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-32,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				30,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-123,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadroni",
+	"position": [
+		-620,
+		-120
+	],
+	"healthicon": "ronnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		60,
+		53
+	],
+	"camera_position": [
+		550,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_dlc.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dlc basic0000" x="16" y="16" width="455" height="151"/>
+	<SubTexture name="dlc white0000" x="16" y="237" width="456" height="152"/>
+</TextureAtlas>

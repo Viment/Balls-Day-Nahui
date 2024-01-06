@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-37,
+				-368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				189,
+				-379
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				209,
+				-345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-375
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-403
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shuaiby-aslam",
+	"position": [
+		-230,
+		-410
+	],
+	"healthicon": "shuaiby",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		172,
+		254
+	],
+	"camera_position": [
+		-200,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

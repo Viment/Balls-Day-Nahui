@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-70,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-134,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-160,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				30,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "BBLeft",
+			"loop": false,
+			"name": "BBLeft"
+		},
+		{
+			"offsets": [
+				-160,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "BBUp",
+			"loop": false,
+			"name": "BBUp"
+		},
+		{
+			"offsets": [
+				-130,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "BBRight",
+			"loop": false,
+			"name": "BBRight"
+		},
+		{
+			"offsets": [
+				-70,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "BBDown",
+			"loop": false,
+			"name": "BBDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gleb_assets",
+	"position": [
+		-370,
+		-190
+	],
+	"healthicon": "gleb",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		82,
+		66
+	],
+	"camera_position": [
+		80,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

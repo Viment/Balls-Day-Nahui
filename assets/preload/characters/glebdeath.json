@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-123,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				-123,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				-123,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glebdeath",
+	"position": [
+		30,
+		350
+	],
+	"healthicon": "gleb",
+	"flip_x": true,
+	"healthbar_colors": [
+		98,
+		82,
+		66
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 5.3
+}

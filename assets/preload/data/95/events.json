@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				69375,
+				[
+					[
+						"HUD Fade",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0.01"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"HUD Fade",
+						"0",
+						""
+					],
+					[
+						"flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"shzo"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.01"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0"
+					],
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"flash",
+						"2",
+						""
+					],
+					[
+						"HUD Fade",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

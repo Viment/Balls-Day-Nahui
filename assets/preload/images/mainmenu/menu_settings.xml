@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_settings.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="settings basic0000" x="16" y="16" width="722" height="185"/>
+	<SubTexture name="settings white0000" x="16" y="271" width="722" height="185"/>
+</TextureAtlas>

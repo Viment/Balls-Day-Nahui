@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk1",
+			"indices": [],
+			"name": "Talk1"
+		},
+		{
+			"offsets": [
+				71,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				850,
+				310
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ronnie",
+	"position": [
+		-210,
+		40
+	],
+	"healthicon": "ronnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		60,
+		53
+	],
+	"camera_position": [
+		-260,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

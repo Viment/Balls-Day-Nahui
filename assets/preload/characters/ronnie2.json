@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				222,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-16,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-70,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-117,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				70,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-50
+			],
+			"anim": "talk1",
+			"fps": 24,
+			"name": "Talk1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ronnie2",
+	"position": [
+		-150,
+		20
+	],
+	"healthicon": "ronnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		60,
+		53
+	],
+	"camera_position": [
+		-250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
